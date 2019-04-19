@@ -51,7 +51,8 @@
 - [人月神话](https://book.douban.com/subject/1102259/)
 - [程序员的职业素养](https://book.douban.com/subject/11614538/)
 - [编写可读代码的艺术](https://book.douban.com/subject/10797189/)
-- [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
+- [UNIX网络编程 卷一](https://book.douban.com/subject/4118578/)
+- [UNIX网络编程 卷二](https://book.douban.com/subject/4118577/) 
 
 ## 设计模式
 
