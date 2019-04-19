@@ -14,6 +14,7 @@
 - [深入理解 Java 虚拟机](https://book.douban.com/subject/24722612/)
 - [Java 并发编程的艺术](https://book.douban.com/subject/26591326/)
 - [Java 并发编程实战](https://book.douban.com/subject/10484692/)
+- [spring揭秘](https://book.douban.com/subject/3897837/)
 
 ## 数据结构与算法
 
@@ -34,6 +35,7 @@
 - [计算机网络](https://book.douban.com/subject/2970300/)
 - [计算机网络 自顶向下方法](https://book.douban.com/subject/1391207/)
 - [图解 HTTP](https://book.douban.com/subject/25863515/)
+- [web性能权威指南](https://book.douban.com/subject/25856314/)
 
 ## 系统设计
 
@@ -49,6 +51,7 @@
 - [人月神话](https://book.douban.com/subject/1102259/)
 - [程序员的职业素养](https://book.douban.com/subject/11614538/)
 - [编写可读代码的艺术](https://book.douban.com/subject/10797189/)
+- [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
 
 ## 设计模式
 
